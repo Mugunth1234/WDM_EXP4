@@ -25,6 +25,8 @@ df
 <img width="476" height="888" alt="image" src="https://github.com/user-attachments/assets/e94a370c-b6d9-4ab8-8184-8d0eb590cc72" />
 <img width="438" height="207" alt="image" src="https://github.com/user-attachments/assets/62b4436c-cc66-4fcd-8589-3f89dd8401ec" />
 
+
+
 ```
 # Perform segmentation based on characteristics (e.g., age groups)
 age_groups = {
